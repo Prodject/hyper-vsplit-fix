@@ -15,7 +15,13 @@ module.exports = {
 }
 ```
 
-> *white border color is not included in package, only used to highlight the effect of the plugin*
+![installed](https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/installed.png)
+> *installed*
+
+![not-installed](https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/not-installed.png)
+> *not installed*
+
+> ***white border color is not included in package, only used to highlight the effect of the plugin***
 
 ## Config
 
