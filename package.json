@@ -1,0 +1,26 @@
+{
+  "name": "hyper-vsplit-fix",
+  "version": "0.1",
+  "description": "Hyper vertical split border fix",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "harryparkdotio/hyper-vsplit-fix",
+  "author": {
+    "name": "Harry Park",
+    "email": "harry@harrypark.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-plugin",
+    "hyperterm",
+    "hyperterm-plugin",
+    "hyper-vsplit",
+    "hyper-vsplit-fix",
+    "hyper-vertical-split",
+    "hyper-vertical-split-fix",
+    "hyper-vertical-split"
+  ]
+}
