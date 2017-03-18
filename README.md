@@ -15,6 +15,8 @@ module.exports = {
 }
 ```
 
+> *white border color is not included in package, only used to highlight the effect of the plugin*
+
 ## Config
 
 Add following to `~/.hyper.js`
