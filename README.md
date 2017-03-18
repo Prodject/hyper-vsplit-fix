@@ -1,18 +1,16 @@
 # hyper-vsplit-fix
 Fixes the vertical split border in hyper
 
-## Install
+[hyper-vsplit-fix on npm](https://www.npmjs.com/package/hyper-vsplit-fix)
 
-```bash
-cd ~/.hyper_plugins/local/ && git clone https://github.com/harryparkdotio/hyper-vsplit-fix.git
-```
+## Install
 
 Add following to your `~/.hyper.js` config.
 
 ```javascript
 module.exports = {
   ...
-  localPlugins: ['hyper-vsplit-fix']
+  plugins: ['hyper-vsplit-fix']
   ...
 }
 ```
