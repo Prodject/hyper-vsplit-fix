@@ -3,6 +3,11 @@ Fixes the vertical split border in hyper
 
 [![npm](https://img.shields.io/npm/v/hyper-vsplit-fix.svg)](https://www.npmjs.com/package/hyper-vsplit-fix) [![npm](https://img.shields.io/npm/dt/hyper-vsplit-fix.svg)](https://www.npmjs.com/package/hyper-vsplit-fix)
 
+
+<img width="444px" style="display: inline-block;" src="https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/installed.png" meta="installed"><img width="444px" style="display: inline-block;" src="https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/not-installed.png" meta="installed">
+
+> **`white` border is for indication only**
+
 ## Install
 
 Add following to your `~/.hyper.js` config.
@@ -15,24 +20,12 @@ module.exports = {
 }
 ```
 
-> *installed*
-
-![installed](https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/installed.png)
-
-
-
-> *not installed*
-
-![not-installed](https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/not-installed.png)
-
-> ***white border color is not included in package, only used to highlight the effect of the plugin***
-
 ## Config
 
 Add following to `~/.hyper.js`
 
 ### Change extra height
-Default value is set to 34
+Default value is set to 34 (macOS)
 
 ```javascript
 module.exports = {
@@ -46,5 +39,3 @@ module.exports = {
   }
 }
 ```
-
-> 34px is the tested height for macOS

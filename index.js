@@ -17,4 +17,5 @@ exports.decorateConfig = (config) => {
 			}
 		`
 	});
+	// .splitpane_divider {background-color:#fff !important;} for debugging
 };
