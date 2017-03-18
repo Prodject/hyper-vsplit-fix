@@ -21,7 +21,7 @@ module.exports = {
 
 Add following to `~/.hyper.js`
 
-### Change added height
+### Change extra height
 Default value is set to 34
 
 ```javascript
@@ -36,3 +36,5 @@ module.exports = {
   }
 }
 ```
+
+> 34px is the tested height for macOS
