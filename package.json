@@ -1,6 +1,6 @@
 {
   "name": "hyper-vsplit-fix",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Hyper vertical split border fix",
   "main": "index.js",
   "license": "MIT",
