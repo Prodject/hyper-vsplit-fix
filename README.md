@@ -1,7 +1,7 @@
 # hyper-vsplit-fix
 Fixes the vertical split border in hyper
 
-[![npm](https://img.shields.io/npm/v/hyper-vsplit-fix.svg?style=flat-square)](https://www.npmjs.com/package/hyper-vsplit-fix) [![npm](https://img.shields.io/npm/dt/hyper-vsplit-fix.svg?style=flat-square)](https://www.npmjs.com/package/hyper-vsplit-fix)
+[![npm](https://img.shields.io/npm/v/hyper-vsplit-fix.svg)](https://www.npmjs.com/package/hyper-vsplit-fix) [![npm](https://img.shields.io/npm/dt/hyper-vsplit-fix.svg)](https://www.npmjs.com/package/hyper-vsplit-fix)
 
 ## Install
 
