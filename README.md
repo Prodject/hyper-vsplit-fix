@@ -10,6 +10,11 @@ Fixes the vertical split border in hyper
 
 ## Install
 
+`hpm install hyper-vsplit-fix`
+> you'll need [hpm](https://www.npmjs.com/package/hpm-cli) installed for this method
+
+or
+
 Add following to your `~/.hyper.js` config.
 
 ```javascript
