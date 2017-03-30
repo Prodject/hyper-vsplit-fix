@@ -1,7 +1,9 @@
 # hyper-vsplit-fix
 Fixes the vertical split border in hyper
 
-[![npm](https://img.shields.io/npm/v/hyper-vsplit-fix.svg)](https://www.npmjs.com/package/hyper-vsplit-fix) [![npm](https://img.shields.io/npm/dt/hyper-vsplit-fix.svg)](https://www.npmjs.com/package/hyper-vsplit-fix)
+[![npm](https://img.shields.io/npm/v/hyper-vsplit-fix.svg?maxAge=2592000)](https://www.npmjs.com/package/hyper-vsplit-fix)
+[![npm](https://img.shields.io/npm/dt/hyper-vsplit-fix.svg?maxAge=2592000)](https://www.npmjs.com/package/hyper-vsplit-fix)
+[![npm](https://img.shields.io/npm/dm/hyper-vsplit-fix.svg?maxAge=2592000)](https://www.npmjs.com/package/hyper-vsplit-fix)
 
 
 <img width="444px" style="display: inline-block;" src="https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/installed.png" meta="installed"><img width="444px" style="display: inline-block;" src="https://raw.githubusercontent.com/harryparkdotio/hyper-vsplit-fix/master/not-installed.png" meta="installed">
